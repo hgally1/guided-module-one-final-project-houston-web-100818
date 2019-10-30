@@ -121,4 +121,3 @@ def gets_user_input
     puts "Enter a location to get started:"
     location = gets.chomp
 end
-
